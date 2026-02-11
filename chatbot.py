@@ -11,7 +11,7 @@ tokenizer = AutoTokenizer.from_pretrained(ADAPTER_PATH)
 
 base_model = AutoModelForCausalLM.from_pretrained(
     BASE_MODEL,
-    torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32
+    dtype=torch.float16 if torch.cuda.is_available() else torch.float32
 )
 
 model = PeftModel.from_pretrained(base_model, ADAPTER_PATH)
