@@ -1,1 +1,0 @@
-from chat_bot_app.load_model import load_model_config
