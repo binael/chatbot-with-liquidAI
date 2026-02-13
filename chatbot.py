@@ -39,4 +39,4 @@ def chatbot(prompt: str) -> str:
         )
 
     response = tokenizer.decode(output[0], skip_special_tokens=True)
-    return response.split('\nassistant\n')[0]
+    return response.split('\nassistant\n')[1]
