@@ -23,17 +23,20 @@ def chatbot(prompt: str) -> str:
     """
     Generate response from fine-tuned model.
     """
+    messages = [{"role": "user", "content": prompt}]
 
-    inputs = tokenizer(prompt, return_tensors="pt").to(device)
+    inputs = tokenizer.apply_chat_template(
+        messages,
+        add_generation_prompt=True,
+        return_tensors="pt"
+    ).to(model.device)
 
     with torch.no_grad():
-        outputs = model.generate(
+        output = model.generate(
             **inputs,
-            max_new_tokens=200,
-            temperature=0.7,
-            do_sample=True,
-            top_p=0.9
+            max_new_tokens=60,
+            temperature=0.7
         )
 
-    response = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    return response
+    response = tokenizer.decode(output[0], skip_special_tokens=True)
+    return response.split('\nassistant\n')[0]
