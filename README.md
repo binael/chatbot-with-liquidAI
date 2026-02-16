@@ -101,38 +101,6 @@ Returns:
 
 ---
 
-# 🎨 Frontend (Static Files)
-
-Located inside:
-
-```
-templates/
-static/
-```
-
-### `index.html`
-
-- Chat interface UI
-- Input box
-- Send button
-- Displays chat messages
-
-### `styles.css`
-
-- Layout styling
-- Chat bubbles
-- Responsive design
-
-### `scripts.js`
-
-- Sends POST request to `/ask`
-- Displays loading state
-- Updates chat window dynamically
-
-The frontend communicates with Flask backend using AJAX (`fetch`).
-
----
-
 # ⚙️ Installation Guide
 
 ---
@@ -183,8 +151,6 @@ torch
 transformers
 peft
 flask
-accelerate
-bitsandbytes
 ```
 
 Then install:
@@ -281,15 +247,3 @@ curl -X POST http://localhost:5000/ask \
 - Logging
 - Docker containerization
 - HuggingFace deployment
-
----
-
-# 👨‍💻 Author
-
-Built as an end-to-end fine-tuned LLM application:
-
-- Dataset scraping
-- Dataset augmentation
-- LoRA fine-tuning
-- Flask deployment
-- Custom frontend
