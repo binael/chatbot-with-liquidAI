@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <title>Prime Robotics Chatbot</title>
+    <title>ElBinAI</title>
     <link
       rel="stylesheet"
       href="{{ url_for('static', filename='style.css') }}"
@@ -9,13 +9,16 @@
   </head>
   <body>
     <div class="chat-container">
-      <h2>🤖 Prime Robotics Assistant</h2>
+      <h2 align="center">🤖 Prime Robotics Assistant by ElBinAI</h2>
 
       <div id="chat-box"></div>
 
       <div class="input-area">
         <input id="user-input" placeholder="Ask something..." />
-        <button onclick="sendMessage()">Send</button>
+
+        <button id="send-btn" onclick="sendMessage()">Send</button>
+
+        <div id="loader" class="loader hidden"></div>
       </div>
     </div>
 

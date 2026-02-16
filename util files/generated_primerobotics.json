@@ -1,0 +1,1530 @@
+[
+    {
+        "question": "What are the four steps to become certified?",
+        "answer": "Enroll in the program, complete hands-on training, finish the capstone project, and receive your certification with hiring support."
+    },
+    {
+        "question": "How can I get certified in four steps?",
+        "answer": "Start by enrolling in the program, participate in practical training, complete the capstone, and earn your certification to get hired."
+    },
+    {
+        "question": "Can you outline the 4 steps required for certification?",
+        "answer": "First, enroll in the program. Next, undergo hands-on training. Then complete the capstone project. Finally, get certified and secure employment."
+    },
+    {
+        "question": "What is the process for getting certified?",
+        "answer": "The process involves enrolling in the program, gaining hands-on experience, completing a capstone project, and obtaining certification with job placement support."
+    },
+    {
+        "question": "What steps do I need to follow to earn my certification?",
+        "answer": "You need to enroll in the program, complete practical training, finish a capstone project, and then receive your certification and hiring assistance."
+    },
+    {
+        "question": "How does the certification process work?",
+        "answer": "It works in four stages: enroll in the program, complete hands-on training, submit your capstone project, and get certified with job support."
+    },
+    {
+        "question": "What are the stages involved in becoming certified?",
+        "answer": "The stages include joining the program, engaging in hands-on training, completing the final capstone, and earning certification with employment opportunities."
+    },
+    {
+        "question": "What is Prime Robotics?",
+        "answer": "Prime Robotics is a training company that teaches AI, machine learning, robotics, Python and modern web development."
+    },
+    {
+        "question": "Do you teach Python?",
+        "answer": "Yes. Python is our main language for AI, robotics and backend development."
+    },
+    {
+        "question": "Do you teach Flask?",
+        "answer": "Yes. We teach Flask for building REST APIs and backend systems."
+    },
+    {
+        "question": "Do you teach FastAPI?",
+        "answer": "Yes. FastAPI is part of our modern Python backend stack for high performance APIs."
+    },
+    {
+        "question": "What AI courses do you offer?",
+        "answer": "We offer courses in machine learning, deep learning, NLP and computer vision."
+    },
+    {
+        "question": "Do beginners need experience?",
+        "answer": "No. We start from beginner level and gradually move to advanced topics."
+    },
+    {
+        "question": "Is there practical training?",
+        "answer": "Yes. Students build real world projects and deploy applications."
+    },
+    {
+        "question": "Do you teach robotics?",
+        "answer": "Yes. We teach sensors, control systems, embedded programming and robotics integration."
+    },
+    {
+        "question": "Do you teach data science?",
+        "answer": "Yes. Our data science courses cover pandas, NumPy, visualization and modeling."
+    },
+    {
+        "question": "Are classes online?",
+        "answer": "Yes. All programs are available online with live interactive sessions."
+    },
+    {
+        "question": "Do you provide certificates?",
+        "answer": "Yes. Students receive certificates after completing each course."
+    },
+    {
+        "question": "How long are the programs?",
+        "answer": "Programs range from six weeks to six months depending on depth."
+    },
+    {
+        "question": "Do you teach machine learning from scratch?",
+        "answer": "Yes. We start with fundamentals before advanced algorithms."
+    },
+    {
+        "question": "Do students work on projects?",
+        "answer": "Yes. Every course includes hands-on projects."
+    },
+    {
+        "question": "What tools do students learn?",
+        "answer": "Students learn Python, Flask, FastAPI, scikit-learn and deep learning frameworks."
+    },
+    {
+        "question": "Can I become job ready?",
+        "answer": "Yes. Our training focuses on real world skills and employability."
+    },
+    {
+        "question": "Do you teach backend development?",
+        "answer": "Yes. We teach backend engineering using Python, Flask and FastAPI."
+    },
+    {
+        "question": "Do you support career guidance?",
+        "answer": "Yes. We provide mentorship and career support."
+    },
+    {
+        "question": "Where are you located?",
+        "answer": "We operate online and also run physical training centers."
+    },
+    {
+        "question": "Why choose Prime Robotics?",
+        "answer": "Because we combine theory, practical projects and industry tools to prepare students for tech careers."
+    },
+    {
+        "question": "What is the goal of Prime Robotics?",
+        "answer": "Prime Robotics aims to help learners master cutting-edge technologies and earn valuable certifications in Robotics, AI, Cloud Engineering, Cybersecurity, and Software Development, with over 500 students already certified and hired."
+    },
+    {
+        "question": "What does Prime Robotics aim to achieve?",
+        "answer": "The goal of Prime Robotics is to equip students with advanced tech skills and certifications in Robotics, Artificial Intelligence, Cloud Engineering, Cybersecurity, and Software Development, having successfully certified and placed 500+ students."
+    },
+    {
+        "question": "What is the mission of Prime Robotics?",
+        "answer": "Prime Robotics\u2019 mission is to empower students to master emerging technologies and gain recognized certifications in Robotics, AI, Cloud, Cybersecurity, and Software Development, with more than 500 graduates certified and hired."
+    },
+    {
+        "question": "What is Prime Robotics focused on?",
+        "answer": "Prime Robotics focuses on training students in cutting-edge technologies and helping them earn certifications in Robotics, AI, Cloud Engineering, Cybersecurity, and Software Development, with 500+ students certified and employed."
+    },
+    {
+        "question": "Why was Prime Robotics created?",
+        "answer": "Prime Robotics was created to prepare students for the future by providing advanced tech training and certifications in Robotics, AI, Cloud Engineering, Cybersecurity, and Software Development, with over 500 successful certifications and job placements."
+    },
+    {
+        "question": "What does Prime Robotics provide to students?",
+        "answer": "Prime Robotics provides hands-on training in emerging technologies and certifications in Robotics, AI, Cloud Engineering, Cybersecurity, and Software Development, with more than 500 students already certified and hired."
+    },
+    {
+        "question": "What is Prime Robotics\u2019 primary objective?",
+        "answer": "Its primary objective is to help learners gain expertise in advanced technologies and secure certifications in Robotics, AI, Cloud Engineering, Cybersecurity, and Software Development, with 500+ students successfully certified and employed."
+    },
+    {
+        "question": "How does Prime Robotics support students\u2019 careers?",
+        "answer": "Prime Robotics supports students\u2019 careers by offering training in cutting-edge technologies and certifications in Robotics, AI, Cloud Engineering, Cybersecurity, and Software Development, with over 500 students certified and hired."
+    },
+    {
+        "question": "What does Prime Robotics offer?",
+        "answer": "Prime Robotics offers a 92% certification success rate, industry-recognized credentials, and dedicated career placement support."
+    },
+    {
+        "question": "What services are provided by Prime Robotics?",
+        "answer": "They provide a 92% certification success rate, globally recognized industry credentials, and strong career placement assistance."
+    },
+    {
+        "question": "What benefits can I get from Prime Robotics?",
+        "answer": "You can benefit from a 92% certification success rate, respected industry-recognized certifications, and professional career support."
+    },
+    {
+        "question": "What are the key offerings of Prime Robotics?",
+        "answer": "Prime Robotics delivers a high 92% certification success rate, industry-approved credentials, and comprehensive job placement support."
+    },
+    {
+        "question": "What does Prime Robotics provide to its students?",
+        "answer": "It provides a 92% certification success rate, recognized industry credentials, and structured career placement guidance."
+    },
+    {
+        "question": "What advantages come with joining Prime Robotics?",
+        "answer": "Joining Prime Robotics gives you access to a 92% certification success rate, prestigious industry-recognized credentials, and reliable career placement support."
+    },
+    {
+        "question": "Why should I choose Prime Robotics?",
+        "answer": "You should choose Prime Robotics for its 92% certification success rate, respected industry credentials, and strong career placement assistance."
+    },
+    {
+        "question": "What is your contact email?",
+        "answer": "You can reach us via email at info@primerobotics.com.ng."
+    },
+    {
+        "question": "How can I contact you by email?",
+        "answer": "Please send your inquiries to info@primerobotics.com.ng."
+    },
+    {
+        "question": "What email address should I use to contact Prime Robotics?",
+        "answer": "Kindly contact us at info@primerobotics.com.ng."
+    },
+    {
+        "question": "Do you have a support email?",
+        "answer": "Yes, our support email is info@primerobotics.com.ng."
+    },
+    {
+        "question": "Where can I send an email to reach your team?",
+        "answer": "You can email our team at info@primerobotics.com.ng."
+    },
+    {
+        "question": "What is Prime Robotics' official email address?",
+        "answer": "Our official email address is info@primerobotics.com.ng."
+    },
+    {
+        "question": "How do I send you an email?",
+        "answer": "You can send us an email at info@primerobotics.com.ng."
+    },
+    {
+        "question": "What is your contact phone number?",
+        "answer": "You can reach us by phone at +234 803 510 5085."
+    },
+    {
+        "question": "How can I contact Prime Robotics by phone?",
+        "answer": "Please call us at +234 803 510 5085."
+    },
+    {
+        "question": "What phone number should I use to reach you?",
+        "answer": "Kindly contact us on +234 803 510 5085."
+    },
+    {
+        "question": "Do you have a customer support number?",
+        "answer": "Yes, our customer support number is +234 803 510 5085."
+    },
+    {
+        "question": "Where can I call to speak with your team?",
+        "answer": "You can speak with our team by calling +234 803 510 5085."
+    },
+    {
+        "question": "What is Prime Robotics' official phone number?",
+        "answer": "Our official phone number is +234 803 510 5085."
+    },
+    {
+        "question": "How do I reach your office by phone?",
+        "answer": "You can reach our office at +234 803 510 5085."
+    },
+    {
+        "question": "What is your office address?",
+        "answer": "Our office is located at 2B Agbani Road, Enugu, Enugu State, Nigeria."
+    },
+    {
+        "question": "Where is Prime Robotics located?",
+        "answer": "Prime Robotics is located at 2B Agbani Road, Enugu, Enugu State, Nigeria."
+    },
+    {
+        "question": "Can you share your physical address?",
+        "answer": "Our physical address is 2B Agbani Road, Enugu, Enugu State, Nigeria."
+    },
+    {
+        "question": "What address can I visit?",
+        "answer": "You can visit us at 2B Agbani Road, Enugu, Enugu State, Nigeria."
+    },
+    {
+        "question": "Where can I find your office?",
+        "answer": "You can find our office at 2B Agbani Road, Enugu, Enugu State, Nigeria."
+    },
+    {
+        "question": "What is Prime Robotics' official address?",
+        "answer": "The official address of Prime Robotics is 2B Agbani Road, Enugu, Enugu State, Nigeria."
+    },
+    {
+        "question": "Where is your company based?",
+        "answer": "Our company is based at 2B Agbani Road, Enugu, Enugu State, Nigeria."
+    },
+    {
+        "question": "What are your program hours?",
+        "answer": "Our program runs Monday to Friday from 9:00 AM to 5:00 PM, and on Saturday from 10:00 AM to 2:00 PM."
+    },
+    {
+        "question": "What time does your program operate?",
+        "answer": "We operate Monday through Friday between 9:00 AM and 5:00 PM, and on Saturdays from 10:00 AM to 2:00 PM."
+    },
+    {
+        "question": "What are your working hours?",
+        "answer": "Our working hours are 9:00 AM to 5:00 PM, Monday to Friday, and 10:00 AM to 2:00 PM on Saturdays."
+    },
+    {
+        "question": "When is the program available?",
+        "answer": "The program is available from 9:00 AM to 5:00 PM on weekdays and from 10:00 AM to 2:00 PM on Saturdays."
+    },
+    {
+        "question": "What days and times are your programs held?",
+        "answer": "Programs are held Monday to Friday from 9:00 AM to 5:00 PM, and Saturday from 10:00 AM to 2:00 PM."
+    },
+    {
+        "question": "What is your weekly schedule?",
+        "answer": "Our weekly schedule is 9:00 AM to 5:00 PM, Monday through Friday, and 10:00 AM to 2:00 PM on Saturday."
+    },
+    {
+        "question": "What are your office hours?",
+        "answer": "Our office hours are Monday to Friday, 9:00 AM to 5:00 PM, and Saturday, 10:00 AM to 2:00 PM."
+    },
+    {
+        "question": "Who is Prime Robotics?",
+        "answer": "Prime Robotics is a technology education organization based in Enugu State, Nigeria, committed to making world-class training in Robotics, AI, and Software Development accessible to everyone."
+    },
+    {
+        "question": "Can you tell me about Prime Robotics?",
+        "answer": "Based in Enugu State, Nigeria, Prime Robotics provides innovative programs in Robotics, Artificial Intelligence, and Software Development to expand access to high-quality tech education."
+    },
+    {
+        "question": "What is Prime Robotics?",
+        "answer": "Prime Robotics is an educational institution in Enugu State, Nigeria, focused on democratizing access to world-class technology training in Robotics, AI, and Software Development."
+    },
+    {
+        "question": "What does Prime Robotics do?",
+        "answer": "Prime Robotics, located in Enugu State, Nigeria, delivers innovative technology programs in Robotics, AI, and Software Development to make advanced tech education widely accessible."
+    },
+    {
+        "question": "How would you describe Prime Robotics?",
+        "answer": "Prime Robotics is a Nigeria-based tech education provider in Enugu State that promotes equal access to world-class learning in Robotics, AI, and Software Development."
+    },
+    {
+        "question": "Where is Prime Robotics based and what do they offer?",
+        "answer": "Prime Robotics is based in Enugu State, Nigeria, and offers forward-thinking programs in Robotics, Artificial Intelligence, and Software Development to broaden access to quality tech education."
+    },
+    {
+        "question": "What is the mission of Prime Robotics?",
+        "answer": "Operating from Enugu State, Nigeria, Prime Robotics aims to democratize access to top-tier technology education through innovative training in Robotics, AI, and Software Development."
+    },
+    {
+        "question": "What is your vision?",
+        "answer": "Our vision is to become Africa\u2019s leading center for innovation, research, and talent development in Robotics and Artificial Intelligence."
+    },
+    {
+        "question": "What is the vision of Prime Robotics?",
+        "answer": "Prime Robotics envisions becoming Africa\u2019s premier hub for Robotics and AI innovation, advanced research, and talent cultivation."
+    },
+    {
+        "question": "What does Prime Robotics aspire to achieve?",
+        "answer": "We aspire to be Africa\u2019s top destination for Robotics and AI innovation, research excellence, and the development of skilled talent."
+    },
+    {
+        "question": "What is your long-term goal?",
+        "answer": "Our long-term goal is to establish ourselves as Africa\u2019s foremost hub for Robotics and Artificial Intelligence innovation, research, and talent development."
+    },
+    {
+        "question": "What future do you envision for Prime Robotics?",
+        "answer": "We envision Prime Robotics as Africa\u2019s premier center for Robotics and AI innovation, groundbreaking research, and nurturing future tech leaders."
+    },
+    {
+        "question": "What is your mission?",
+        "answer": "Our mission is to equip African youth with practical, future-ready skills in robotics, automation, artificial intelligence, and software engineering."
+    },
+    {
+        "question": "What is the mission of Prime Robotics?",
+        "answer": "Prime Robotics is committed to empowering African youth with hands-on, future-proof expertise in robotics, automation, AI, and software engineering."
+    },
+    {
+        "question": "What does Prime Robotics aim to accomplish?",
+        "answer": "We aim to prepare African youth with industry-relevant skills in robotics, automation, artificial intelligence, and software engineering to thrive in the future workforce."
+    },
+    {
+        "question": "What drives your organization\u2019s mission?",
+        "answer": "Our mission is driven by the goal of providing African youth with practical and sustainable skills in robotics, automation, AI, and software engineering."
+    },
+    {
+        "question": "What is your core mission?",
+        "answer": "Our core mission is to train and equip African youth with modern, future-proof skills in robotics, automation, artificial intelligence, and software engineering."
+    },
+    {
+        "question": "What do you seek to achieve through your mission?",
+        "answer": "Through our mission, we seek to empower African youth with hands-on training and future-ready competencies in robotics, automation, AI, and software engineering."
+    },
+    {
+        "question": "What is your approach?",
+        "answer": "Our approach focuses on project-based learning using industry-standard tools, personalized mentorship, and solving real-world problems."
+    },
+    {
+        "question": "How does Prime Robotics deliver its programs?",
+        "answer": "We deliver our programs through hands-on, project-based learning supported by industry tools, one-on-one mentorship, and practical problem-solving."
+    },
+    {
+        "question": "What teaching method do you use?",
+        "answer": "We use a project-based learning model that integrates industry tools, tailored mentorship, and real-world problem-solving experiences."
+    },
+    {
+        "question": "How do you train your students?",
+        "answer": "We train students through practical projects, access to industry-relevant tools, personalized guidance, and exposure to real-world challenges."
+    },
+    {
+        "question": "What makes your learning approach unique?",
+        "answer": "Our learning approach combines project-based training, professional industry tools, dedicated mentorship, and real-world application of skills."
+    },
+    {
+        "question": "How is learning structured at Prime Robotics?",
+        "answer": "Learning is structured around hands-on projects, industry-grade tools, individualized mentorship, and solving real-life problems."
+    },
+    {
+        "question": "What does an industry-aligned curriculum mean?",
+        "answer": "Our courses are regularly updated to reflect current industry demands and emerging technologies."
+    },
+    {
+        "question": "How is your curriculum aligned with the industry?",
+        "answer": "We continuously revise our curriculum to stay in sync with evolving industry standards and new technologies."
+    },
+    {
+        "question": "Do your courses follow current industry trends?",
+        "answer": "Yes, our courses are consistently updated to match industry requirements and advancements in emerging technologies."
+    },
+    {
+        "question": "How do you ensure your curriculum stays relevant?",
+        "answer": "We keep our curriculum relevant by frequently updating it to align with modern industry needs and technological innovations."
+    },
+    {
+        "question": "Is your curriculum up to date with industry standards?",
+        "answer": "Our curriculum is designed to remain current by adapting to industry expectations and incorporating emerging technologies."
+    },
+    {
+        "question": "How often do you update your courses?",
+        "answer": "We regularly update our courses to ensure they meet present-day industry demands and reflect the latest technological developments."
+    },
+    {
+        "question": "Who are the expert mentors?",
+        "answer": "You will learn from passionate professionals with real-world experience in robotics and AI development."
+    },
+    {
+        "question": "What kind of mentors do you have?",
+        "answer": "Our mentors are experienced professionals who are passionate about robotics and artificial intelligence development."
+    },
+    {
+        "question": "Who will be teaching the programs?",
+        "answer": "The programs are led by dedicated industry professionals with hands-on experience in robotics and AI development."
+    },
+    {
+        "question": "What qualifies your mentors as experts?",
+        "answer": "Our mentors bring real-world industry experience in robotics and AI development, combined with a strong passion for teaching."
+    },
+    {
+        "question": "Will I learn from experienced professionals?",
+        "answer": "Yes, you will be guided by seasoned professionals with practical experience in robotics and artificial intelligence development."
+    },
+    {
+        "question": "What makes your mentors stand out?",
+        "answer": "Our mentors stand out because they are passionate experts with real-world experience in robotics and AI development."
+    },
+    {
+        "question": "What are the hands-on projects about?",
+        "answer": "You will work with real robotics kits, AI models, and professional software tools used globally in the industry."
+    },
+    {
+        "question": "What kind of practical projects will I work on?",
+        "answer": "Students engage with real robotics kits, artificial intelligence models, and industry-standard software tools used by professionals worldwide."
+    },
+    {
+        "question": "Do you provide practical experience with real tools?",
+        "answer": "Yes, learners gain hands-on experience using robotics kits, AI models, and professional software tools adopted across the globe."
+    },
+    {
+        "question": "What tools are used in your hands-on projects?",
+        "answer": "Our projects involve real robotics kits, advanced AI models, and software tools commonly used by industry professionals worldwide."
+    },
+    {
+        "question": "Will I work with industry-standard equipment?",
+        "answer": "Absolutely, you will train with real robotics kits, AI systems, and globally recognized professional software tools."
+    },
+    {
+        "question": "How practical are your projects?",
+        "answer": "Our projects are highly practical, giving students direct experience with robotics kits, AI models, and professional software tools used around the world."
+    },
+    {
+        "question": "Do you offer flexible learning options?",
+        "answer": "Yes, you can choose between on-site training in Enugu or virtual classes, depending on what suits you best."
+    },
+    {
+        "question": "What are your learning options?",
+        "answer": "We offer both physical training in Enugu and online virtual classes to fit your schedule and preferences."
+    },
+    {
+        "question": "Can I learn online or in person?",
+        "answer": "You have the option to attend on-site training in Enugu or join our virtual classes from anywhere."
+    },
+    {
+        "question": "How flexible is your learning format?",
+        "answer": "Our programs are flexible, allowing you to select either in-person training in Enugu or convenient virtual classes."
+    },
+    {
+        "question": "Do I have to attend classes physically?",
+        "answer": "No, you can either participate in on-site sessions in Enugu or enroll in our virtual learning program."
+    },
+    {
+        "question": "What study modes are available?",
+        "answer": "We provide adaptable study modes, including on-site training in Enugu and fully virtual classes tailored to your needs."
+    },
+    {
+        "question": "What community support do you offer?",
+        "answer": "You will join a vibrant network of tech enthusiasts, alumni, and industry partners who support your growth."
+    },
+    {
+        "question": "Is there a community I can be part of?",
+        "answer": "Yes, you become part of a dynamic community of tech enthusiasts, graduates, and industry collaborators."
+    },
+    {
+        "question": "What kind of network will I have access to?",
+        "answer": "You gain access to a thriving network of technology enthusiasts, alumni members, and industry partners."
+    },
+    {
+        "question": "Do students get access to a professional community?",
+        "answer": "Students are welcomed into a vibrant ecosystem of tech lovers, alumni, and trusted industry partners."
+    },
+    {
+        "question": "How does community support work at Prime Robotics?",
+        "answer": "Community support means connecting you with an active network of tech enthusiasts, past students, and industry partners."
+    },
+    {
+        "question": "Will I be connected to other professionals?",
+        "answer": "Yes, you will be part of a strong community that includes tech enthusiasts, alumni, and industry partners."
+    },
+    {
+        "question": "How do you support career growth?",
+        "answer": "We support career growth by providing career guidance, portfolio reviews, and connections to tech job opportunities."
+    },
+    {
+        "question": "What career benefits do students receive?",
+        "answer": "Students receive personalized career guidance, professional portfolio reviews, and access to valuable tech opportunities."
+    },
+    {
+        "question": "Do you offer career support?",
+        "answer": "Yes, we offer structured career guidance, detailed portfolio feedback, and networking opportunities within the tech industry."
+    },
+    {
+        "question": "How will this program help my career?",
+        "answer": "The program helps your career through expert guidance, portfolio evaluations, and direct connections to technology opportunities."
+    },
+    {
+        "question": "What kind of career assistance is available?",
+        "answer": "We provide mentorship on career paths, review your portfolio for improvement, and connect you with promising tech roles."
+    },
+    {
+        "question": "Will I get help finding tech opportunities?",
+        "answer": "Absolutely, you will receive career advice, portfolio support, and introductions to relevant tech opportunities."
+    },
+    {
+        "question": "Why does Prime Robotics stand out?",
+        "answer": "Prime Robotics stands out because of its industry-aligned curriculum, expert mentors, hands-on projects, flexible learning options, strong community support, and career growth opportunities."
+    },
+    {
+        "question": "What makes Prime Robotics different from others?",
+        "answer": "We differentiate ourselves through an industry-relevant curriculum, experienced mentors, practical projects, flexible learning formats, supportive community, and dedicated career growth support."
+    },
+    {
+        "question": "What sets Prime Robotics apart?",
+        "answer": "Prime Robotics is set apart by its updated industry curriculum, professional mentors, real-world projects, adaptable learning options, vibrant community, and strong career development focus."
+    },
+    {
+        "question": "Why should I choose Prime Robotics over others?",
+        "answer": "You should choose Prime Robotics for its industry-aligned courses, expert guidance, hands-on experience, flexible study modes, supportive network, and commitment to career advancement."
+    },
+    {
+        "question": "What are the unique strengths of Prime Robotics?",
+        "answer": "Our unique strengths include an industry-aligned curriculum, seasoned mentors, project-based learning, flexible delivery options, community engagement, and structured career support."
+    },
+    {
+        "question": "How is Prime Robotics better than other institutes?",
+        "answer": "We excel through relevant industry training, experienced mentors, practical hands-on projects, flexible learning pathways, a strong tech community, and comprehensive career growth support."
+    },
+    {
+        "question": "How many students have you trained?",
+        "answer": "We have trained over 500 students."
+    },
+    {
+        "question": "What is the number of students trained so far?",
+        "answer": "So far, over 500 students have completed our training programs."
+    },
+    {
+        "question": "How many learners have gone through your programs?",
+        "answer": "More than 500 learners have been trained through our programs."
+    },
+    {
+        "question": "What is your student training count?",
+        "answer": "Our student training count exceeds 500 individuals."
+    },
+    {
+        "question": "How many students have successfully trained with you?",
+        "answer": "Over 500 students have successfully trained with us."
+    },
+    {
+        "question": "What is the total number of students you have trained?",
+        "answer": "We have trained more than 500 students to date."
+    },
+    {
+        "question": "How many projects have been completed?",
+        "answer": "We have completed over 120 projects."
+    },
+    {
+        "question": "What is the total number of projects completed?",
+        "answer": "A total of more than 120 projects have been successfully completed."
+    },
+    {
+        "question": "How many projects has Prime Robotics delivered?",
+        "answer": "Prime Robotics has delivered over 120 completed projects."
+    },
+    {
+        "question": "What is your project completion count?",
+        "answer": "Our project completion count exceeds 120 projects."
+    },
+    {
+        "question": "How many successful projects have you executed?",
+        "answer": "We have successfully executed more than 120 projects."
+    },
+    {
+        "question": "What is the number of projects you have finished so far?",
+        "answer": "So far, we have finished over 120 projects."
+    },
+    {
+        "question": "What courses do you offer?",
+        "answer": "We offer over six specialized courses across our programs."
+    },
+    {
+        "question": "How many courses are available?",
+        "answer": "There are more than six courses currently available."
+    },
+    {
+        "question": "What is the number of courses you provide?",
+        "answer": "We provide over six comprehensive courses."
+    },
+    {
+        "question": "How many different courses can I enroll in?",
+        "answer": "You can enroll in more than six different courses."
+    },
+    {
+        "question": "What programs are offered at Prime Robotics?",
+        "answer": "Prime Robotics offers over six diverse courses designed to meet industry needs."
+    },
+    {
+        "question": "How many training courses do you have?",
+        "answer": "We currently have over six training courses available."
+    },
+    {
+        "question": "What is your satisfaction rate?",
+        "answer": "We have achieved over a 98% satisfaction rate."
+    },
+    {
+        "question": "How satisfied are your students?",
+        "answer": "Our students report a satisfaction rate of over 98%."
+    },
+    {
+        "question": "What percentage of students are satisfied?",
+        "answer": "More than 98% of our students are satisfied with our programs."
+    },
+    {
+        "question": "How high is your satisfaction level?",
+        "answer": "Our overall satisfaction level exceeds 98%."
+    },
+    {
+        "question": "What is the student satisfaction rate?",
+        "answer": "The student satisfaction rate is over 98%."
+    },
+    {
+        "question": "How would you describe your satisfaction performance?",
+        "answer": "We maintain an exceptional satisfaction rate of over 98%."
+    },
+    {
+        "question": "What is the tuition fee for Robot Development and Automation?",
+        "answer": "The tuition fee for Robot Development and Automation is \u20a6300,000."
+    },
+    {
+        "question": "How much does the Robot Development and Automation program cost?",
+        "answer": "The cost of the Robot Development and Automation program is \u20a6300,000."
+    },
+    {
+        "question": "What is the price for the Robot Development and Automation course?",
+        "answer": "The Robot Development and Automation course is priced at \u20a6300,000."
+    },
+    {
+        "question": "How much do I pay for Robot Development and Automation?",
+        "answer": "You will pay \u20a6300,000 for the Robot Development and Automation program."
+    },
+    {
+        "question": "What is the fee for the Robot Development and Automation training?",
+        "answer": "The training fee for Robot Development and Automation is \u20a6300,000."
+    },
+    {
+        "question": "Can you tell me the tuition for Robot Development and Automation?",
+        "answer": "The tuition for Robot Development and Automation is \u20a6300,000."
+    },
+    {
+        "question": "What is the duration of the Robot Development and Automation program?",
+        "answer": "The Robot Development and Automation program lasts 6 months."
+    },
+    {
+        "question": "How long is the Robot Development and Automation course?",
+        "answer": "The duration of the Robot Development and Automation course is 6 months."
+    },
+    {
+        "question": "How many months does the Robot Development and Automation training take?",
+        "answer": "The training takes 6 months to complete."
+    },
+    {
+        "question": "What is the length of the Robot Development and Automation program?",
+        "answer": "The program runs for a total of 6 months."
+    },
+    {
+        "question": "How long will it take to complete Robot Development and Automation?",
+        "answer": "It will take 6 months to complete the Robot Development and Automation program."
+    },
+    {
+        "question": "What is the timeframe for the Robot Development and Automation course?",
+        "answer": "The timeframe for the course is 6 months."
+    },
+    {
+        "question": "Can you give a brief description of Robot Development and Automation?",
+        "answer": "The program focuses on designing and programming robotic systems using Arduino, ESP32, PLCs, and ROS for industrial automation and IoT solutions."
+    },
+    {
+        "question": "What is Robot Development and Automation about?",
+        "answer": "It involves building and programming robotic systems with tools like Arduino, ESP32, PLCs, and ROS for industrial automation and IoT applications."
+    },
+    {
+        "question": "What will I learn in Robot Development and Automation?",
+        "answer": "You will learn to design and program robotic systems using Arduino, ESP32, PLCs, and ROS for real-world industrial automation and IoT solutions."
+    },
+    {
+        "question": "Provide a short overview of the Robot Development and Automation course.",
+        "answer": "This course teaches how to develop and program robotic systems with Arduino, ESP32, PLCs, and ROS, targeting industrial automation and IoT integration."
+    },
+    {
+        "question": "What does the Robot Development and Automation program cover?",
+        "answer": "The program covers robotic system design and programming using Arduino, ESP32, PLCs, and ROS for automation and IoT-based solutions."
+    },
+    {
+        "question": "What skills are taught in Robot Development and Automation?",
+        "answer": "Students gain skills in designing and coding robotic systems with Arduino, ESP32, PLCs, and ROS for industrial and IoT automation projects."
+    },
+    {
+        "question": "Can you provide a summary of Robot Development and Automation?",
+        "answer": "The program covers building and programming mobile robots, controlling systems with sensors, and implementing industrial automation using ROS."
+    },
+    {
+        "question": "What is the summary of the Robot Development and Automation course?",
+        "answer": "It focuses on developing mobile robots, integrating sensor-based control systems, and applying ROS for industrial automation."
+    },
+    {
+        "question": "Give a short summary of Robot Development and Automation.",
+        "answer": "Students build and program mobile robots, manage sensor-driven control systems, and use ROS for automation in industrial settings."
+    },
+    {
+        "question": "What does the Robot Development and Automation program include?",
+        "answer": "The program includes mobile robot development, sensor-based system control, and industrial automation projects using ROS."
+    },
+    {
+        "question": "Briefly describe the Robot Development and Automation program.",
+        "answer": "It involves constructing and programming mobile robots, working with sensor controls, and leveraging ROS for industrial automation."
+    },
+    {
+        "question": "What are the key highlights of Robot Development and Automation?",
+        "answer": "Key highlights include mobile robot programming, sensor-integrated control systems, and industrial automation powered by ROS."
+    },
+    {
+        "question": "What is the tuition fee for the Artificial Intelligence program?",
+        "answer": "The tuition fee for the Artificial Intelligence program is \u20a6300,000."
+    },
+    {
+        "question": "How much does the Artificial Intelligence course cost?",
+        "answer": "The Artificial Intelligence course costs \u20a6300,000."
+    },
+    {
+        "question": "What is the price of the Artificial Intelligence training?",
+        "answer": "The price for the Artificial Intelligence training is \u20a6300,000."
+    },
+    {
+        "question": "How much do I need to pay for Artificial Intelligence?",
+        "answer": "You need to pay \u20a6300,000 for the Artificial Intelligence program."
+    },
+    {
+        "question": "What is the fee for studying Artificial Intelligence?",
+        "answer": "The fee for studying Artificial Intelligence is \u20a6300,000."
+    },
+    {
+        "question": "Can you tell me the cost of the Artificial Intelligence program?",
+        "answer": "The cost of the Artificial Intelligence program is \u20a6300,000."
+    },
+    {
+        "question": "What is the duration of the Artificial Intelligence program?",
+        "answer": "The Artificial Intelligence program lasts 6 months."
+    },
+    {
+        "question": "How long is the Artificial Intelligence course?",
+        "answer": "The duration of the Artificial Intelligence course is 6 months."
+    },
+    {
+        "question": "How many months does the Artificial Intelligence training take?",
+        "answer": "The Artificial Intelligence training takes 6 months to complete."
+    },
+    {
+        "question": "What is the length of the Artificial Intelligence program?",
+        "answer": "The program runs for a total of 6 months."
+    },
+    {
+        "question": "How long will it take to complete the Artificial Intelligence course?",
+        "answer": "It will take 6 months to complete the Artificial Intelligence course."
+    },
+    {
+        "question": "What is the timeframe for the Artificial Intelligence program?",
+        "answer": "The timeframe for the Artificial Intelligence program is 6 months."
+    },
+    {
+        "question": "Can you give a brief description of the Artificial Intelligence program?",
+        "answer": "The program focuses on building intelligent systems with Python, training machine learning models, and developing computer vision projects."
+    },
+    {
+        "question": "What is the Artificial Intelligence course about?",
+        "answer": "It teaches how to create intelligent systems using Python, train machine learning algorithms, and implement practical computer vision applications."
+    },
+    {
+        "question": "What will I learn in the Artificial Intelligence program?",
+        "answer": "You will learn to build AI systems in Python, train machine learning models, and execute real-world computer vision projects."
+    },
+    {
+        "question": "Provide a short overview of the Artificial Intelligence course.",
+        "answer": "This course covers intelligent system development with Python, machine learning model training, and hands-on computer vision projects."
+    },
+    {
+        "question": "What does the Artificial Intelligence training include?",
+        "answer": "The training includes designing intelligent systems in Python, developing machine learning models, and implementing computer vision solutions."
+    },
+    {
+        "question": "What skills are gained in the Artificial Intelligence program?",
+        "answer": "Students gain skills in Python-based AI development, machine learning training, and computer vision project implementation."
+    },
+    {
+        "question": "Can you provide a summary of the Artificial Intelligence program?",
+        "answer": "The program covers neural networks and deep learning, image classification using OpenCV, and deploying AI models into production environments."
+    },
+    {
+        "question": "What is the summary of the Artificial Intelligence course?",
+        "answer": "It includes training in neural networks and deep learning, performing image classification with OpenCV, and deploying AI solutions to production."
+    },
+    {
+        "question": "Give a short summary of Artificial Intelligence training.",
+        "answer": "Students learn neural networks and deep learning, apply image classification techniques with OpenCV, and deploy AI models in real-world production systems."
+    },
+    {
+        "question": "What does the Artificial Intelligence program include?",
+        "answer": "The program includes deep learning with neural networks, computer vision tasks like image classification using OpenCV, and production-level AI deployment."
+    },
+    {
+        "question": "Briefly describe the Artificial Intelligence course.",
+        "answer": "It focuses on neural networks, deep learning methods, OpenCV-based image classification, and deploying AI models for production use."
+    },
+    {
+        "question": "What are the key highlights of the Artificial Intelligence program?",
+        "answer": "Key highlights include neural networks, deep learning techniques, image classification with OpenCV, and deploying AI models into live production environments."
+    },
+    {
+        "question": "What is the tuition fee for the Data Science program?",
+        "answer": "The tuition fee for the Data Science program is \u20a6300,000."
+    },
+    {
+        "question": "How much does the Data Science course cost?",
+        "answer": "The Data Science course costs \u20a6300,000."
+    },
+    {
+        "question": "What is the price of the Data Science training?",
+        "answer": "The price for the Data Science training is \u20a6300,000."
+    },
+    {
+        "question": "How much do I need to pay for Data Science?",
+        "answer": "You need to pay \u20a6300,000 for the Data Science program."
+    },
+    {
+        "question": "What is the fee for studying Data Science?",
+        "answer": "The fee for studying Data Science is \u20a6300,000."
+    },
+    {
+        "question": "Can you tell me the cost of the Data Science program?",
+        "answer": "The cost of the Data Science program is \u20a6300,000."
+    },
+    {
+        "question": "What is the duration of the Data Science program?",
+        "answer": "The Data Science program lasts 6 months."
+    },
+    {
+        "question": "How long is the Data Science course?",
+        "answer": "The duration of the Data Science course is 6 months."
+    },
+    {
+        "question": "How many months does the Data Science training take?",
+        "answer": "The Data Science training takes 6 months to complete."
+    },
+    {
+        "question": "What is the length of the Data Science program?",
+        "answer": "The program runs for a total of 6 months."
+    },
+    {
+        "question": "How long will it take to complete the Data Science course?",
+        "answer": "It will take 6 months to complete the Data Science course."
+    },
+    {
+        "question": "What is the timeframe for the Data Science program?",
+        "answer": "The timeframe for the Data Science program is 6 months."
+    },
+    {
+        "question": "Can you give a brief description of the Data Science program?",
+        "answer": "The program focuses on uncovering insights from data and making impactful decisions using Python and modern data analysis libraries."
+    },
+    {
+        "question": "What is the Data Science course about?",
+        "answer": "It teaches how to analyze data, extract meaningful insights, and support decision-making using Python and advanced data analysis tools."
+    },
+    {
+        "question": "What will I learn in the Data Science program?",
+        "answer": "You will learn to interpret data, generate actionable insights, and make informed decisions with Python and modern analytics libraries."
+    },
+    {
+        "question": "Provide a short overview of the Data Science course.",
+        "answer": "This course covers data exploration, insight generation, and decision-making techniques using Python and contemporary data analysis libraries."
+    },
+    {
+        "question": "What does the Data Science training include?",
+        "answer": "The training includes analyzing datasets, discovering insights, and applying Python-based data analysis libraries to drive decisions."
+    },
+    {
+        "question": "What skills are gained in the Data Science program?",
+        "answer": "Students gain skills in data analysis, insight extraction, and decision-making using Python and modern data science libraries."
+    },
+    {
+        "question": "Can you provide a summary of the Data Science program?",
+        "answer": "The program covers data wrangling and preprocessing, advanced data visualization, and predictive modeling techniques."
+    },
+    {
+        "question": "What is the summary of the Data Science course?",
+        "answer": "It includes data cleaning and preprocessing, creating advanced visualizations, and applying predictive modeling methods."
+    },
+    {
+        "question": "Give a short summary of Data Science training.",
+        "answer": "Students learn data wrangling, preprocessing techniques, advanced visualization strategies, and predictive modeling approaches."
+    },
+    {
+        "question": "What does the Data Science program include?",
+        "answer": "The program includes preparing and cleaning data, building advanced visualizations, and developing predictive models."
+    },
+    {
+        "question": "Briefly describe the Data Science course.",
+        "answer": "It focuses on data preprocessing, insightful visualization, and implementing predictive modeling techniques."
+    },
+    {
+        "question": "What are the key highlights of the Data Science program?",
+        "answer": "Key highlights include data wrangling, advanced data visualization, and practical predictive modeling techniques."
+    },
+    {
+        "question": "What is the tuition fee for the Cloud Engineering program?",
+        "answer": "The tuition fee for the Cloud Engineering program is \u20a6350,000."
+    },
+    {
+        "question": "How much does the Cloud Engineering course cost?",
+        "answer": "The Cloud Engineering course costs \u20a6350,000."
+    },
+    {
+        "question": "What is the price of the Cloud Engineering training?",
+        "answer": "The price for the Cloud Engineering training is \u20a6350,000."
+    },
+    {
+        "question": "How much do I need to pay for Cloud Engineering?",
+        "answer": "You need to pay \u20a6350,000 for the Cloud Engineering program."
+    },
+    {
+        "question": "What is the fee for studying Cloud Engineering?",
+        "answer": "The fee for studying Cloud Engineering is \u20a6350,000."
+    },
+    {
+        "question": "Can you tell me the cost of the Cloud Engineering program?",
+        "answer": "The cost of the Cloud Engineering program is \u20a6350,000."
+    },
+    {
+        "question": "What is the duration of the Cloud Engineering program?",
+        "answer": "The Cloud Engineering program lasts 6 months."
+    },
+    {
+        "question": "How long is the Cloud Engineering course?",
+        "answer": "The duration of the Cloud Engineering course is 6 months."
+    },
+    {
+        "question": "How many months does the Cloud Engineering training take?",
+        "answer": "The Cloud Engineering training takes 6 months to complete."
+    },
+    {
+        "question": "What is the length of the Cloud Engineering program?",
+        "answer": "The program runs for a total of 6 months."
+    },
+    {
+        "question": "How long will it take to complete the Cloud Engineering course?",
+        "answer": "It will take 6 months to complete the Cloud Engineering course."
+    },
+    {
+        "question": "What is the timeframe for the Cloud Engineering program?",
+        "answer": "The timeframe for the Cloud Engineering program is 6 months."
+    },
+    {
+        "question": "Can you give a brief description of the Cloud Engineering program?",
+        "answer": "The program focuses on mastering cloud infrastructure, deployment, and management using AWS, Azure, and Google Cloud for scalable applications."
+    },
+    {
+        "question": "What is the Cloud Engineering course about?",
+        "answer": "It teaches how to design, deploy, and manage scalable applications using AWS, Microsoft Azure, and Google Cloud platforms."
+    },
+    {
+        "question": "What will I learn in the Cloud Engineering program?",
+        "answer": "You will learn to build and manage cloud infrastructure, handle deployments, and work with AWS, Azure, and Google Cloud services."
+    },
+    {
+        "question": "Provide a short overview of the Cloud Engineering course.",
+        "answer": "This course covers cloud infrastructure management, application deployment, and scalable architecture using AWS, Azure, and Google Cloud."
+    },
+    {
+        "question": "What does the Cloud Engineering training include?",
+        "answer": "The training includes working with AWS, Azure, and Google Cloud to manage infrastructure, deploy applications, and ensure scalability."
+    },
+    {
+        "question": "What skills are gained in the Cloud Engineering program?",
+        "answer": "Students gain skills in cloud infrastructure design, deployment strategies, and cloud management across AWS, Azure, and Google Cloud platforms."
+    },
+    {
+        "question": "What is the tuition fee for the App and Software Development program?",
+        "answer": "The tuition fee for the App and Software Development program is \u20a6300,000."
+    },
+    {
+        "question": "How much does the App and Software Development course cost?",
+        "answer": "The App and Software Development course costs \u20a6300,000."
+    },
+    {
+        "question": "What is the price of the App and Software Development training?",
+        "answer": "The price for the App and Software Development training is \u20a6300,000."
+    },
+    {
+        "question": "How much do I need to pay for App and Software Development?",
+        "answer": "You need to pay \u20a6300,000 for the App and Software Development program."
+    },
+    {
+        "question": "What is the fee for studying App and Software Development?",
+        "answer": "The fee for studying App and Software Development is \u20a6300,000."
+    },
+    {
+        "question": "Can you tell me the cost of the App and Software Development program?",
+        "answer": "The cost of the App and Software Development program is \u20a6300,000."
+    },
+    {
+        "question": "Can you provide a summary of the Cloud Engineering program?",
+        "answer": "The program covers cloud infrastructure design, multi-cloud deployment strategies, and DevOps with containerization."
+    },
+    {
+        "question": "What is the summary of the Cloud Engineering course?",
+        "answer": "It includes designing cloud infrastructure, implementing multi-cloud deployment approaches, and applying DevOps and containerization practices."
+    },
+    {
+        "question": "Give a short summary of Cloud Engineering training.",
+        "answer": "Students learn cloud architecture design, multi-cloud deployment methods, and DevOps techniques including containerization."
+    },
+    {
+        "question": "What does the Cloud Engineering program include?",
+        "answer": "The program includes cloud infrastructure planning, deploying applications across multiple cloud platforms, and DevOps with container technologies."
+    },
+    {
+        "question": "Briefly describe the Cloud Engineering course.",
+        "answer": "It focuses on cloud infrastructure design, strategies for multi-cloud deployment, and DevOps processes with containerization."
+    },
+    {
+        "question": "What are the key highlights of the Cloud Engineering program?",
+        "answer": "Key highlights include cloud infrastructure design, multi-cloud strategies, and DevOps practices such as containerization."
+    },
+    {
+        "question": "What is the duration of the App and Software Development program?",
+        "answer": "The App and Software Development program lasts 6 months."
+    },
+    {
+        "question": "How long is the App and Software Development course?",
+        "answer": "The duration of the App and Software Development course is 6 months."
+    },
+    {
+        "question": "How many months does the App and Software Development training take?",
+        "answer": "The App and Software Development training takes 6 months to complete."
+    },
+    {
+        "question": "What is the length of the App and Software Development program?",
+        "answer": "The program runs for a total of 6 months."
+    },
+    {
+        "question": "How long will it take to complete the App and Software Development course?",
+        "answer": "It will take 6 months to complete the App and Software Development course."
+    },
+    {
+        "question": "What is the timeframe for the App and Software Development program?",
+        "answer": "The timeframe for the App and Software Development program is 6 months."
+    },
+    {
+        "question": "Can you give a brief description of the App and Software Development program?",
+        "answer": "The program prepares you to become a full-stack developer capable of building modern web and mobile applications using industry-standard technologies."
+    },
+    {
+        "question": "What is the App and Software Development course about?",
+        "answer": "It focuses on training you as a full-stack developer skilled in creating modern web and mobile applications with professional technologies."
+    },
+    {
+        "question": "What will I learn in the App and Software Development program?",
+        "answer": "You will learn to develop modern web and mobile applications as a full-stack developer using industry-recognized tools and frameworks."
+    },
+    {
+        "question": "Provide a short overview of the App and Software Development course.",
+        "answer": "This course equips you with full-stack development skills to build responsive web and mobile applications using industry-standard technologies."
+    },
+    {
+        "question": "What does the App and Software Development training include?",
+        "answer": "The training includes full-stack development practices for designing and deploying modern web and mobile applications."
+    },
+    {
+        "question": "What skills are gained in the App and Software Development program?",
+        "answer": "Students gain full-stack development expertise, enabling them to build scalable web and mobile applications with industry-standard technologies."
+    },
+    {
+        "question": "Can you provide a summary of the App and Software Development program?",
+        "answer": "The program covers frontend development with TailwindCSS, backend development using Python with FastAPI, Flask, and Django, and mobile app development with Flutter."
+    },
+    {
+        "question": "What is the summary of the App and Software Development course?",
+        "answer": "It includes building user interfaces with TailwindCSS, developing backend systems with Python frameworks like FastAPI, Flask, and Django, and creating mobile applications using Flutter."
+    },
+    {
+        "question": "Give a short summary of the App and Software Development training.",
+        "answer": "Students learn frontend design with TailwindCSS, backend programming with Python frameworks such as FastAPI, Flask, and Django, and mobile development with Flutter."
+    },
+    {
+        "question": "What does the App and Software Development program include?",
+        "answer": "The program includes frontend development using TailwindCSS, backend engineering with Python frameworks, and cross-platform mobile app development with Flutter."
+    },
+    {
+        "question": "Briefly describe the App and Software Development course.",
+        "answer": "It focuses on frontend styling with TailwindCSS, backend development using Python, FastAPI, Flask, and Django, and building mobile apps with Flutter."
+    },
+    {
+        "question": "What are the key highlights of the App and Software Development program?",
+        "answer": "Key highlights include TailwindCSS for frontend development, Python frameworks like FastAPI, Flask, and Django for backend systems, and Flutter for mobile applications."
+    },
+    {
+        "question": "What is the tuition fee for the Cyber Security program?",
+        "answer": "The tuition fee for the Cyber Security program is \u20a6350,000."
+    },
+    {
+        "question": "How much does the Cyber Security course cost?",
+        "answer": "The Cyber Security course costs \u20a6350,000."
+    },
+    {
+        "question": "What is the price of the Cyber Security training?",
+        "answer": "The price for the Cyber Security training is \u20a6350,000."
+    },
+    {
+        "question": "How much do I need to pay for Cyber Security?",
+        "answer": "You need to pay \u20a6350,000 for the Cyber Security program."
+    },
+    {
+        "question": "What is the fee for studying Cyber Security?",
+        "answer": "The fee for studying Cyber Security is \u20a6350,000."
+    },
+    {
+        "question": "Can you tell me the cost of the Cyber Security program?",
+        "answer": "The cost of the Cyber Security program is \u20a6350,000."
+    },
+    {
+        "question": "What is the duration of the Cyber Security program?",
+        "answer": "The Cyber Security program lasts 6 months."
+    },
+    {
+        "question": "How long is the Cyber Security course?",
+        "answer": "The duration of the Cyber Security course is 6 months."
+    },
+    {
+        "question": "How many months does the Cyber Security training take?",
+        "answer": "The Cyber Security training takes 6 months to complete."
+    },
+    {
+        "question": "What is the length of the Cyber Security program?",
+        "answer": "The program runs for a total of 6 months."
+    },
+    {
+        "question": "How long will it take to complete the Cyber Security course?",
+        "answer": "It will take 6 months to complete the Cyber Security course."
+    },
+    {
+        "question": "What is the timeframe for the Cyber Security program?",
+        "answer": "The timeframe for the Cyber Security program is 6 months."
+    },
+    {
+        "question": "What is the brief description of the Cyber Security program?",
+        "answer": "Master the tools and techniques to defend against cyber threats and secure digital assets effectively."
+    },
+    {
+        "question": "What will I learn in the Cyber Security course?",
+        "answer": "You will master the tools and techniques to defend against cyber threats and secure digital assets effectively."
+    },
+    {
+        "question": "What does the Cyber Security training cover?",
+        "answer": "The training covers tools and techniques to defend against cyber threats and secure digital assets effectively."
+    },
+    {
+        "question": "What skills will I gain from the Cyber Security program?",
+        "answer": "You will gain skills to defend against cyber threats and secure digital assets using modern tools and techniques."
+    },
+    {
+        "question": "What is the focus of the Cyber Security course?",
+        "answer": "The course focuses on mastering tools and techniques to protect digital assets from cyber threats."
+    },
+    {
+        "question": "What is Cyber Security at this institute about?",
+        "answer": "It is about mastering tools and techniques to effectively defend against cyber threats and secure digital assets."
+    },
+    {
+        "question": "What is the summary of the Cyber Security program?",
+        "answer": "Network security fundamentals. Ethical hacking techniques. Incident response protocols."
+    },
+    {
+        "question": "What topics are covered in the Cyber Security course?",
+        "answer": "Network security fundamentals, ethical hacking techniques, and incident response protocols."
+    },
+    {
+        "question": "What are the key areas of focus in the Cyber Security training?",
+        "answer": "The key areas include network security fundamentals, ethical hacking techniques, and incident response protocols."
+    },
+    {
+        "question": "What will I study in the Cyber Security program?",
+        "answer": "You will study network security fundamentals, ethical hacking techniques, and incident response protocols."
+    },
+    {
+        "question": "What are the main components of the Cyber Security curriculum?",
+        "answer": "The curriculum covers network security fundamentals, ethical hacking techniques, and incident response protocols."
+    },
+    {
+        "question": "What does the Cyber Security program include?",
+        "answer": "It includes network security fundamentals, ethical hacking techniques, and incident response protocols."
+    },
+    {
+        "question": "What is the tuition fee for the Blockchain Development program?",
+        "answer": "The tuition fee for the Blockchain Development program is \u20a6350,000."
+    },
+    {
+        "question": "How much does the Blockchain Development course cost?",
+        "answer": "The Blockchain Development course costs \u20a6350,000."
+    },
+    {
+        "question": "What is the price of the Blockchain Development training?",
+        "answer": "The price for the Blockchain Development training is \u20a6350,000."
+    },
+    {
+        "question": "How much do I need to pay for Blockchain Development?",
+        "answer": "You need to pay \u20a6350,000 for the Blockchain Development program."
+    },
+    {
+        "question": "What is the fee for studying Blockchain Development?",
+        "answer": "The fee for studying Blockchain Development is \u20a6350,000."
+    },
+    {
+        "question": "Can you tell me the cost of the Blockchain Development program?",
+        "answer": "The cost of the Blockchain Development program is \u20a6350,000."
+    },
+    {
+        "question": "What is the duration of the Blockchain Development program?",
+        "answer": "The Blockchain Development program lasts 6 months."
+    },
+    {
+        "question": "How long is the Blockchain Development course?",
+        "answer": "The duration of the Blockchain Development course is 6 months."
+    },
+    {
+        "question": "How many months does the Blockchain Development training take?",
+        "answer": "The Blockchain Development training takes 6 months to complete."
+    },
+    {
+        "question": "What is the length of the Blockchain Development program?",
+        "answer": "The program runs for a total of 6 months."
+    },
+    {
+        "question": "How long will it take to complete the Blockchain Development course?",
+        "answer": "It will take 6 months to complete the Blockchain Development course."
+    },
+    {
+        "question": "What is the timeframe for the Blockchain Development program?",
+        "answer": "The timeframe for the Blockchain Development program is 6 months."
+    },
+    {
+        "question": "What is the brief description of the Blockchain Development program?",
+        "answer": "Explore decentralized applications and smart contracts using Ethereum, Hyperledger, and other blockchain platforms."
+    },
+    {
+        "question": "What will I learn in the Blockchain Development course?",
+        "answer": "You will explore decentralized applications and smart contracts using Ethereum, Hyperledger, and other blockchain platforms."
+    },
+    {
+        "question": "What does the Blockchain Development training cover?",
+        "answer": "The training covers decentralized applications and smart contract development using Ethereum, Hyperledger, and other blockchain platforms."
+    },
+    {
+        "question": "What skills will I gain from the Blockchain Development program?",
+        "answer": "You will gain skills in building decentralized applications and smart contracts using Ethereum, Hyperledger, and other blockchain platforms."
+    },
+    {
+        "question": "What is the focus of the Blockchain Development course?",
+        "answer": "The course focuses on developing decentralized applications and smart contracts on platforms like Ethereum and Hyperledger."
+    },
+    {
+        "question": "What is Blockchain Development at this institute about?",
+        "answer": "It is about exploring decentralized applications and smart contracts using Ethereum, Hyperledger, and other blockchain platforms."
+    },
+    {
+        "question": "What is the summary of the Blockchain Development program?",
+        "answer": "Smart contract development. Building dApps with Solidity. Blockchain security principles."
+    },
+    {
+        "question": "What topics are covered in the Blockchain Development course?",
+        "answer": "Smart contract development, building dApps with Solidity, and blockchain security principles."
+    },
+    {
+        "question": "What are the key areas of focus in the Blockchain Development training?",
+        "answer": "The key areas include smart contract development, building dApps with Solidity, and blockchain security principles."
+    },
+    {
+        "question": "What will I study in the Blockchain Development program?",
+        "answer": "You will study smart contract development, building dApps with Solidity, and blockchain security principles."
+    },
+    {
+        "question": "What are the main components of the Blockchain Development curriculum?",
+        "answer": "The curriculum covers smart contract development, building dApps with Solidity, and blockchain security principles."
+    },
+    {
+        "question": "What does the Blockchain Development program include?",
+        "answer": "It includes smart contract development, building dApps with Solidity, and blockchain security principles."
+    },
+    {
+        "question": "What courses are available?",
+        "answer": "Robot Development & Automation. Artificial Intelligence. Data Science. Cloud Engineering. App & Software Development. Cyber Security. Blockchain Development."
+    },
+    {
+        "question": "What programs do you offer?",
+        "answer": "We offer Robot Development & Automation, Artificial Intelligence, Data Science, Cloud Engineering, App & Software Development, Cyber Security, and Blockchain Development."
+    },
+    {
+        "question": "Which courses can I enroll in?",
+        "answer": "You can enroll in Robot Development & Automation, Artificial Intelligence, Data Science, Cloud Engineering, App & Software Development, Cyber Security, and Blockchain Development."
+    },
+    {
+        "question": "What training programs are available?",
+        "answer": "Available training programs include Robot Development & Automation, Artificial Intelligence, Data Science, Cloud Engineering, App & Software Development, Cyber Security, and Blockchain Development."
+    },
+    {
+        "question": "What are the different courses offered?",
+        "answer": "The courses offered are Robot Development & Automation, Artificial Intelligence, Data Science, Cloud Engineering, App & Software Development, Cyber Security, and Blockchain Development."
+    },
+    {
+        "question": "Can you list all the available courses?",
+        "answer": "Yes. The available courses are Robot Development & Automation, Artificial Intelligence, Data Science, Cloud Engineering, App & Software Development, Cyber Security, and Blockchain Development."
+    },
+    {
+        "question": "What is the Industry-Validated Curriculum?",
+        "answer": "Our courses are designed with direct input from tech industry leaders to ensure relevance."
+    },
+    {
+        "question": "How is your curriculum industry-validated?",
+        "answer": "Our curriculum is designed with direct input from tech industry leaders to ensure relevance."
+    },
+    {
+        "question": "What makes your curriculum industry-validated?",
+        "answer": "It is developed with direct input from tech industry leaders to ensure it remains relevant."
+    },
+    {
+        "question": "Do industry experts contribute to your curriculum?",
+        "answer": "Yes, our courses are designed with direct input from tech industry leaders to ensure relevance."
+    },
+    {
+        "question": "Why is your curriculum considered industry-validated?",
+        "answer": "Because it is created with direct input from tech industry leaders to ensure it meets current industry needs."
+    },
+    {
+        "question": "How do you ensure your courses stay relevant to the tech industry?",
+        "answer": "We design our courses with direct input from tech industry leaders to ensure relevance."
+    },
+    {
+        "question": "What is Project-Based Learning?",
+        "answer": "Build real-world projects that demonstrate your skills to potential employers."
+    },
+    {
+        "question": "How does Project-Based Learning work?",
+        "answer": "You build real-world projects that demonstrate your skills to potential employers."
+    },
+    {
+        "question": "What does Project-Based Learning involve?",
+        "answer": "It involves building real-world projects that showcase your skills to potential employers."
+    },
+    {
+        "question": "Why is Project-Based Learning important?",
+        "answer": "It helps you build real-world projects that demonstrate your skills to potential employers."
+    },
+    {
+        "question": "Will I work on real projects during the program?",
+        "answer": "Yes, you will build real-world projects that demonstrate your skills to potential employers."
+    },
+    {
+        "question": "How does Project-Based Learning help my career?",
+        "answer": "It allows you to build real-world projects that demonstrate your skills to potential employers."
+    },
+    {
+        "question": "What is Career Support?",
+        "answer": "Get assistance with resume building, interview prep, and job placement."
+    },
+    {
+        "question": "Do you provide career support?",
+        "answer": "Yes, we provide assistance with resume building, interview preparation, and job placement."
+    },
+    {
+        "question": "What does your Career Support include?",
+        "answer": "It includes assistance with resume building, interview preparation, and job placement."
+    },
+    {
+        "question": "How will you help me get a job?",
+        "answer": "We assist with resume building, interview preparation, and job placement."
+    },
+    {
+        "question": "Is job placement support available?",
+        "answer": "Yes, we offer assistance with resume building, interview preparation, and job placement."
+    },
+    {
+        "question": "What kind of career assistance do you offer?",
+        "answer": "We offer assistance with resume building, interview preparation, and job placement."
+    },
+    {
+        "question": "Why should I choose Prime Robotics?",
+        "answer": "Industry-Validated Curriculum. Project-Based Learning. Career Support."
+    },
+    {
+        "question": "What makes Prime Robotics a good choice?",
+        "answer": "Industry-Validated Curriculum. Project-Based Learning. Career Support."
+    },
+    {
+        "question": "What are the benefits of choosing Prime Robotics?",
+        "answer": "Industry-Validated Curriculum. Project-Based Learning. Career Support."
+    },
+    {
+        "question": "Why is Prime Robotics different?",
+        "answer": "Industry-Validated Curriculum. Project-Based Learning. Career Support."
+    },
+    {
+        "question": "What sets Prime Robotics apart?",
+        "answer": "Industry-Validated Curriculum. Project-Based Learning. Career Support."
+    },
+    {
+        "question": "Why enroll at Prime Robotics?",
+        "answer": "Industry-Validated Curriculum. Project-Based Learning. Career Support."
+    },
+    {
+        "question": "What is your Facebook link?",
+        "answer": "https://facebook.com/primerobotics"
+    },
+    {
+        "question": "Can I get the Facebook page URL?",
+        "answer": "https://facebook.com/primerobotics"
+    },
+    {
+        "question": "Do you have a Facebook page?",
+        "answer": "Yes, visit https://facebook.com/primerobotics"
+    },
+    {
+        "question": "Where can I find you on Facebook?",
+        "answer": "https://facebook.com/primerobotics"
+    },
+    {
+        "question": "What is the official Facebook page for Prime Robotics?",
+        "answer": "https://facebook.com/primerobotics"
+    },
+    {
+        "question": "Share your Facebook profile link.",
+        "answer": "https://facebook.com/primerobotics"
+    },
+    {
+        "question": "What is your Twitter link?",
+        "answer": "https://twitter.com/primerobotics"
+    },
+    {
+        "question": "Can I get the Twitter page URL?",
+        "answer": "https://twitter.com/primerobotics"
+    },
+    {
+        "question": "Do you have a Twitter page?",
+        "answer": "Yes, visit https://twitter.com/primerobotics"
+    },
+    {
+        "question": "Where can I find you on Twitter?",
+        "answer": "https://twitter.com/primerobotics"
+    },
+    {
+        "question": "What is the official Twitter page for Prime Robotics?",
+        "answer": "https://twitter.com/primerobotics"
+    },
+    {
+        "question": "Share your Twitter profile link.",
+        "answer": "https://twitter.com/primerobotics"
+    },
+    {
+        "question": "What is your LinkedIn link?",
+        "answer": "https://linkedin.com/company/primerobotics"
+    },
+    {
+        "question": "Can I get the LinkedIn page URL?",
+        "answer": "https://linkedin.com/company/primerobotics"
+    },
+    {
+        "question": "Do you have a LinkedIn page?",
+        "answer": "Yes, visit https://linkedin.com/company/primerobotics"
+    },
+    {
+        "question": "Where can I find you on LinkedIn?",
+        "answer": "https://linkedin.com/company/primerobotics"
+    },
+    {
+        "question": "What is the official LinkedIn page for Prime Robotics?",
+        "answer": "https://linkedin.com/company/primerobotics"
+    },
+    {
+        "question": "Share your LinkedIn profile link.",
+        "answer": "https://linkedin.com/company/primerobotics"
+    },
+    {
+        "question": "What is your Instagram link?",
+        "answer": "https://instagram.com/primerobotics"
+    },
+    {
+        "question": "Can I get the Instagram page URL?",
+        "answer": "https://instagram.com/primerobotics"
+    },
+    {
+        "question": "Do you have an Instagram page?",
+        "answer": "Yes, visit https://instagram.com/primerobotics"
+    },
+    {
+        "question": "Where can I find you on Instagram?",
+        "answer": "https://instagram.com/primerobotics"
+    },
+    {
+        "question": "What is the official Instagram page for Prime Robotics?",
+        "answer": "https://instagram.com/primerobotics"
+    },
+    {
+        "question": "Share your Instagram profile link.",
+        "answer": "https://instagram.com/primerobotics"
+    }
+]
