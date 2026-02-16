@@ -1,17 +1,3 @@
-Here is a **professional main-project README** for your repository, specifically covering:
-
-- `app.py`
-- `chatbot.py`
-- Static files (HTML, CSS, JS)
-- Installation guide
-- `requirements.txt`
-- Project structure
-- Run instructions
-
-You can paste this into your root `README.md`.
-
----
-
 # 🤖 Prime Robotics AI Chatbot
 
 A fine-tuned Large Language Model (LLM) chatbot built to answer questions about **Prime Robotics**.
