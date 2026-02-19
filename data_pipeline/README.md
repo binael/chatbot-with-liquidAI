@@ -71,7 +71,7 @@ Engineering signal:
 
 ---
 
-# 📦 Module 2 — Generative Data Expansion
+# Module 2 — Generative Data Expansion
 
 Expands dataset using
 Google Generative AI (Gemini).
