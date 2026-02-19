@@ -1,249 +1,163 @@
-# 🤖 Prime Robotics AI Chatbot
+# Prime Robotics Domain Assistant
 
-A fine-tuned Large Language Model (LLM) chatbot built to answer questions about **Prime Robotics**.
-
-The system uses:
-
-- 🧠 LoRA fine-tuned model (`LiquidAI/LFM2.5-1.2B-Instruct`)
-- 🔥 PyTorch + HuggingFace Transformers
-- ⚡ Flask backend API
-- 🎨 HTML + CSS + JavaScript frontend
+LoRA Fine-Tuning of a 1B+ Instruction LLM (LiquidAI Instruct)
 
 ---
 
-# 📂 Project Structure
+## 1️ Project Overview
+
+This project demonstrates **efficient domain adaptation** of an instruction-tuned Large Language Model using **LoRA (Low-Rank Adaptation)**.
+
+The goal was to build a lightweight domain-specific assistant capable of answering questions about Prime Robotics programs and offerings.
+
+Instead of full fine-tuning, this project uses parameter-efficient training via PEFT to reduce GPU cost and training time.
+
+---
+
+## 2️⃣ Architecture Overview
+
+**Pipeline:**
+
+1. Website Scraping
+2. Dataset Cleaning & Structuring
+3. Data Augmentation (Q&A paraphrasing via Google GenAI API)
+4. LoRA Fine-Tuning
+5. Adapter Integration
+6. Flask API Deployment
+7. Lightweight Frontend Interface
+
 
 ```
-├── app.py                  # Flask backend server
-├── chatbot.py              # Model loading & inference logic
-├── templates/
-│   └── index.html          # Frontend UI
-├── static/
-│   ├── styles.css          # Styling
-│   └── scripts.js          # Frontend logic (AJAX requests)
-├── prime_robotics_lora/    # LoRA adapter weights
-├── requirements.txt
-└── README.md
+Website Data → Q&A Dataset → LoRA Fine-Tuning → Adapter → Flask API → UI
 ```
 
 ---
 
-# 🧠 Core Components
+## 3️⃣ Model Details
+
+* Base Model: (Insert exact model name, e.g. `LiquidAI/LFM2.5-1.2B-Instruct`)
+* Parameter Size: ~1B+
+* Training Strategy: LoRA (via HuggingFace PEFT)
+* Fine-Tuning Type: Supervised Instruction Tuning
+
+### LoRA Configuration
+
+* r: 16 (or your value)
+* alpha: 32
+* target_modules: ["q_proj", "v_proj"]
+* dropout: 0.05
+* bias: none
 
 ---
 
-## 1️⃣ `chatbot.py`
+## 4️⃣ Dataset
 
-This file handles:
+### Data Sources
 
-- Loading the base model
-- Loading LoRA adapter weights
-- Loading tokenizer
-- Running inference
-- Generating responses
+* Scraped structured content from official Prime Robotics website
+* Augmented with paraphrased Q&A pairs generated using Google GenAI API
 
-### Base Model
+### Dataset Characteristics
 
-```
-LiquidAI/LFM2.5-1.2B-Instruct
-```
+* Domain-specific
+* Clean Q&A format
+* Small but focused
+* Instruction-style conversational format
 
-### Key Responsibilities
-
-- Detects GPU automatically
-- Applies chat template
-- Generates response using:
-  - `temperature=0.5`
-  - `do_sample=True`
-  - `max_new_tokens=50`
-
-- Cleans assistant output
-- Returns formatted response string
-
-This file contains the **main AI logic** of the project.
-
----
-
-## 2️⃣ `app.py`
-
-This file serves as the backend API using Flask.
-
-### Routes
-
-### `GET /`
-
-Renders the chatbot interface.
-
-### `POST /ask`
-
-Accepts:
+Example training sample:
 
 ```json
 {
-  "message": "User question here"
+  "question": "What programs does Prime Robotics offer?",
+  "answer": "Prime Robotics offers robotics training programs for..."
 }
 ```
 
-Returns:
+---
 
-```json
-{
-  "response": "Model generated answer"
-}
-```
+## 5️⃣ Training Setup
 
-### Responsibilities
+* Framework: HuggingFace Transformers
+* PEFT: LoRA adapters
+* Hardware: CPU
+* Epochs: 5
+* Learning Rate: 9e-4
+* Batch Size: 16
 
-- Receives user message
-- Calls `chatbot()` function
-- Returns JSON response
-- Runs Flask server
+> LoRA freezes the base model weights and trains only lightweight adapter layers, reducing memory consumption and enabling efficient experimentation.
 
 ---
 
-# ⚙️ Installation Guide
+## 6️⃣ Inference & Deployment
+
+After training:
+
+* The LoRA adapter is merged or loaded on top of the base model
+* A simple Flask API serves responses
+* A minimal frontend handles user interaction
 
 ---
 
-## 1️⃣ Clone Repository
+## 7️⃣ Results & Observations
 
-```bash
-git clone https://github.com/yourusername/prime-robotics-chatbot.git
-cd prime-robotics-chatbot
-```
+* Improved domain-specific accuracy
+* Reduced hallucinations within domain scope
+* Lightweight deployment
+* Fast inference
 
----
+Limitations:
 
-## 2️⃣ Create Virtual Environment (Recommended)
-
-```bash
-python -m venv venv
-```
-
-Activate:
-
-### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-### Mac/Linux
-
-```bash
-source venv/bin/activate
-```
+* Small dataset
+* No large-scale benchmarking
+* No RLHF or safety tuning
+* Not production-hardened
+* Prone to Overfitting to ensure output
 
 ---
 
-## 3️⃣ Install Dependencies
+## 8️⃣ How to Run
 
-Create a file called:
+### Clone Repo
 
-```
-requirements.txt
-```
-
-With the following contents:
-
-```
-torch
-transformers
-peft
-flask
+```bash
+git clone https://github.com/binael/chatbot-with-liquidAI
+cd chatbot-with-liquidAI
 ```
 
-Then install:
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
----
-
-# 🚀 Running the Application
+### Run API
 
 ```bash
 python app.py
 ```
 
-Server runs at:
+---
 
-```
-http://localhost:5000
-```
+## 9️⃣ Key Takeaways
 
-Open it in your browser.
+* Efficient fine-tuning does not require massive infrastructure.
+* Focused data + LoRA can meaningfully adapt LLM behavior.
+* Small domain assistants are practical and cost-effective.
 
 ---
 
-# 💻 GPU Support
+## 🔟 Future Improvements
 
-If CUDA is available, the model automatically runs on GPU.
-
-Otherwise, it falls back to CPU.
-
----
-
-# 🧠 Model Details
-
-- Base Model: `LiquidAI/LFM2.5-1.2B-Instruct`
-- Fine-tuning method: LoRA (PEFT)
-- Only adapter weights stored locally
-- Efficient inference
-- Low memory usage
+* Evaluation metrics (BLEU / ROUGE / Human eval)
+* Quantization for faster inference
+* Better prompt formatting
+* Guardrails & safety layer
+* Retrieval augmentation
 
 ---
 
-# 🔄 Request Flow
+## Lessons Learned
 
-```
-User (Browser)
-      ↓
-Frontend (HTML/JS)
-      ↓
-POST /ask
-      ↓
-Flask (app.py)
-      ↓
-chatbot.py
-      ↓
-Model.generate()
-      ↓
-Response JSON
-      ↓
-Frontend display
-```
-
----
-
-# 🧪 Example API Call
-
-Using curl:
-
-```bash
-curl -X POST http://localhost:5000/ask \
-     -H "Content-Type: application/json" \
-     -d '{"message":"What courses does Prime Robotics offer?"}'
-```
-
----
-
-# 📌 Notes
-
-- Model may require significant RAM if running on CPU.
-- For production deployment, use:
-  - Gunicorn
-  - Docker
-  - Nginx reverse proxy
-
----
-
-# 🔥 Future Improvements
-
-- Streaming responses
-- Conversation memory
-- Rate limiting
-- Logging
-- Docker containerization
-- HuggingFace deployment
+* Data quality mattered more than dataset size.
+* LoRA dramatically reduced GPU requirements.
+* Clear instruction formatting improved response quality.
